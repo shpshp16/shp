@@ -3,7 +3,7 @@ from telebot import types
 import requests
 import simplejson as json
 
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '254375023:AAG1rrrmVm_cOPD-V7iVZmhVt_ysL_TPib0'
 API_PATH = 'http://api.vajehyab.com/v2/public'
 
 bot = telebot.TeleBot(TOKEN)
